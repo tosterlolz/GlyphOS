@@ -1,0 +1,12 @@
+/home/toster/OSDev/GlyphOS/obj/cosmos/Debug/net6.0/GlyphOS.csproj.AssemblyReference.cache
+/home/toster/OSDev/GlyphOS/obj/cosmos/Debug/net6.0/GlyphOS.GeneratedMSBuildEditorConfig.editorconfig
+/home/toster/OSDev/GlyphOS/obj/cosmos/Debug/net6.0/GlyphOS.AssemblyInfoInputs.cache
+/home/toster/OSDev/GlyphOS/obj/cosmos/Debug/net6.0/GlyphOS.AssemblyInfo.cs
+/home/toster/OSDev/GlyphOS/obj/cosmos/Debug/net6.0/GlyphOS.csproj.CoreCompileInputs.cache
+/home/toster/OSDev/GlyphOS/bin/cosmos/Debug/net6.0/GlyphOS.deps.json
+/home/toster/OSDev/GlyphOS/bin/cosmos/Debug/net6.0/GlyphOS.dll
+/home/toster/OSDev/GlyphOS/bin/cosmos/Debug/net6.0/GlyphOS.pdb
+/home/toster/OSDev/GlyphOS/obj/cosmos/Debug/net6.0/GlyphOS.dll
+/home/toster/OSDev/GlyphOS/obj/cosmos/Debug/net6.0/refint/GlyphOS.dll
+/home/toster/OSDev/GlyphOS/obj/cosmos/Debug/net6.0/GlyphOS.pdb
+/home/toster/OSDev/GlyphOS/obj/cosmos/Debug/net6.0/ref/GlyphOS.dll
