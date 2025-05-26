@@ -24,6 +24,7 @@ namespace GlyphOS
             Logger.Info("  clear            Clear the terminal screen");
             Logger.Info("  echo <text>      Display the text");
             Logger.Info("  date             Display the current date and time");
+            Logger.Info("  lua <file.lua>   Execute lua code");
         }
     }
 }
