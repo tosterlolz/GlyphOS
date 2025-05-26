@@ -3,6 +3,10 @@ FSIMG=fs.img
 
 all: build run
 
+fs: 
+	dd if=/dev/zero of=fs.img bs=1M count=64
+	mkfs.fat -F 32 fs.img
+
 build:
 	dotnet build
 
